@@ -18,7 +18,7 @@ else if (randomNumber2>randomNumber1) {
   }
 else{
     document.querySelector("h1").innerHTML="Tie. Roll again.";
-    document.querySelector("h2").innerHTML="<a href='dicee2.html'>Roll Againe</a>";
+    document.querySelector("h2").innerHTML="<a href='dicee2.html'>Roll Again</a>";
 }
 }
 
